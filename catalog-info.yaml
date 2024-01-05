@@ -2,7 +2,7 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: artist2-web
-  description: The place to be, for great artists
+  description: The BEST place to be, for great artists
   labels:
     example.com/custom: custom_label_value
   annotations:
@@ -18,5 +18,5 @@ metadata:
 spec:
   type: website
   lifecycle: production
-  owner: artist-relations-team
-  system: public-websites
+  owner: artist2-relations-team
+  system: public2-websites
